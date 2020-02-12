@@ -1,0 +1,31 @@
+body{
+    background-color: black;
+}
+.sideNavbar{
+    margin-top: 700px;
+}
+.card{
+    margin-top: 50px;
+    width: 1000px;
+    height:500px;
+    background-color: black;
+    color:white;
+}
+.Homeimg {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    min-height: 1000px;
+    background: rgba(0, 0, 0, 0.7);
+}
+.Homeimg{
+    background:url(best-fitness.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    min-height: 700px;
+    }
+    .button{
+        margin-top: 500px;
+    }
